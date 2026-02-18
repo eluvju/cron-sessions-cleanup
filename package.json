@@ -1,0 +1,13 @@
+{
+  "name": "session-cleaner",
+  "version": "1.0.0",
+  "description": "Skill para limpar sessões órfãs de cron do OpenClaw",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "cleanup": "node index.js --cleanup"
+  },
+  "keywords": ["openclaw", "session", "cleanup", "cron"],
+  "author": "",
+  "license": "MIT"
+}

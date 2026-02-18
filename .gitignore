@@ -1,0 +1,20 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+backups/
+*.backup
+*.bak
+
+# Environment files
+.env
+.env.local
+.env.*.local
